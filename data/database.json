@@ -1,0 +1,88 @@
+{
+    "posts" : [
+        {
+            "id": 1,
+            "title": "Senior Vue Developer",
+            "type": "Full Time",
+            "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have a strong skill in HTML, CSS and Javascript, with experience working with modern Javascript frameworks such as React or Angular.",
+            "location": "Boston, MA",
+            "salary" : "$70K - $80 / Year",
+            "company" : {
+                "name" : "NewTek Solutions",
+                "description" : "We are seeking a talented Senior Vue Developer to join our growing team in Boston, MA. As a key member of the front-end development team, you will play a pivotal role in building modern, responsive web applications using Vue.js. The ideal candidate should have a strong command of HTML, CSS, JavaScript, and deep experience in the Vue.js framework. You will be responsible for translating UI/UX designs into functional code and ensuring that applications are both performant and maintainable.",
+                "contactEmail" : "contact@vuecontactme.com",
+                "contactPhone" : "555-555-5555",
+                "responsibilities": [
+                    "Develop highly responsive web applications using Vue.js",
+                    "Collaborate with cross-functional teams to design, develop, and implement new features",
+                    "Maintain and optimize existing codebases for maximum speed and scalability",
+                    "Ensure the technical feasibility of UI/UX designs",
+                    "Troubleshoot and resolve issues in production environments"
+                ],
+                "qualifications" : [
+                    "3+ years of experience working with React.js",
+                    "Strong proficiency in JavaScript, HTML, CSS, and React's ecosystem",
+                    "Experience with state management using Redux or Context API",
+                    "Familiarity with version control (Git) and CI/CD pipelines",
+                    "Solid understanding of REST APIs and component-based architecture"
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "title": "Senior React Developer",
+            "type": "Full Time",
+            "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have a strong skill in HTML, CSS and Javascript, with experience working with modern Javascript frameworks such as React or Angular.",
+            "location": "Santa Rosa, CA",
+            "salary" : "$70K - $80 / Year",
+            "company" : {
+                "name" : "NewTek Solutions",
+                "description" : "We are on the lookout for a skilled Senior React Developer to join our Santa Rosa-based team. As part of our front-end development team, you will be responsible for creating dynamic, fast, and engaging user experiences using the React.js framework. The ideal candidate will have a strong foundation in HTML, CSS, JavaScript, and a passion for solving complex problems through modern web technologies. You will work closely with the UI/UX and backend teams to deliver seamless user experiences.",
+                "contactEmail" : "contact@vuecontactme.com",
+                "contactPhone" : "555-555-5555",
+                "responsibilities" : [
+                    "Design and implement new features using React.js",
+                    "Optimize components for performance across various devices and browsers",
+                    "Collaborate with product managers and designers to create intuitive and user-friendly interfaces",
+                    "Debug and troubleshoot application issues",
+                    "Maintain and update existing projects with the latest technology stack"
+                ],
+                "qualifications" : [
+                    "3+ years of experience working with React.js",
+                    "Strong proficiency in JavaScript, HTML, CSS, and React's ecosystem",
+                    "Experience with state management using Redux or Context API",
+                    "Familiarity with version control (Git) and CI/CD pipelines",
+                    "Solid understanding of REST APIs and component-based architecture"
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "title": " Node Js Developer",
+            "type": "Full Time",
+            "description": "We are seeking an experienced Node.js Developer to join our backend development team in New York City. As a Node.js Developer, you will be responsible for building and maintaining scalable backend services. The ideal candidate will have strong experience with Node.js, Express, and other backend technologies, and will be comfortable working in a fast-paced, collaborative environment. You will be developing APIs, working with databases, and ensuring the reliability and performance of our services.",
+            "location": "New York, NY",
+            "salary" : "$70K - $80 / Year",
+            "company" : {
+                "name" : "NewTek Solutions",
+                "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore commodi et impedit. Obcaecati facere cumque totam, beatae animi repellat sit nobis rem quam, vel tempore. Vero ullam consequuntur possimus neque.",
+                "contactEmail" : "contact@vuecontactme.com",
+                "contactPhone" : "555-555-5555",
+                "responsibilities" : [
+                    "Build and maintain server-side applications using Node.js",
+                    "Collaborate with front-end and database teams to design and implement APIs",
+                    "Write scalable, clean, and efficient code",
+                    "Ensure application security and data protection",
+                    "Optimize server performance and troubleshoot issues"
+                ],
+                "qualifications" : [
+                    "3+ years of experience working with React.js",
+                    "Strong proficiency in JavaScript, HTML, CSS, and React's ecosystem",
+                    "Experience with state management using Redux or Context API",
+                    "Familiarity with version control (Git) and CI/CD pipelines",
+                    "Solid understanding of REST APIs and component-based architecture"
+                ]
+            }
+        }
+    ]
+}
